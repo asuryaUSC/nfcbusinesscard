@@ -4,13 +4,13 @@ import Head from 'next/head';
 import ProfileCard from '../components/ProfileCard';
 
 const profileData = {
-  name: "Shilpa Srivastava",
-  position: "Founder and President",
-  description: "Guiding GENISYSapp's vision and strategy, fostering innovation and excellence in tech consulting.",
-  email: "shilpa.srivastava@gsysapp.com",
-  phone: "+12243258388",
-  whatsapp: "+12243258388",
-  linkedin: "https://www.linkedin.com/in/shilpa-srivastava-03165017b/",
+  name: "Aaditya Surya",
+  position: "Executive Intern",
+  description: "Contributing to GENISYSapp's success through dedicated support and innovative solutions in tech consulting.",
+  email: "aaditya.surya@gsysapp.com",
+  phone: "+12137838000",
+  whatsapp: "+12137838000",
+  linkedin: "https://www.linkedin.com/in/aadityasurya/",
   website: "https://www.gsysapp.com",
   companyLogo: "/companylogo.png", // Ensure this path is correct
   headshot: "/profile.png"
